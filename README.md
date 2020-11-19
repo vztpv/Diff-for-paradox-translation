@@ -1,6 +1,6 @@
 # Diff-for-paradox-translation
 # Diff for localisation file(.yml)
-# example...
+# yml example...
     l_english:
      MENU_MESSAGES_DISABLE_ALL:0 "Disable all"
      ai_handicap:0 "AI Bonuses"
@@ -11,3 +11,5 @@
 # It is simplified yml?
 # Diff for two valid localisation files. 
 # (no check valid!)
+# diff example
+![alt text](test.png) 
