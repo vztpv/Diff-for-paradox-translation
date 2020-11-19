@@ -9,3 +9,5 @@
      TO_ME:0 "To me"
      FROM_ME:0 "From me"
 # It is simplified yml?
+# Diff for two valid localisation files. 
+# (no check valid!)
