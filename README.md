@@ -1,0 +1,1 @@
+# Diff-for-paradox-translation
